@@ -1,0 +1,11 @@
+h1 { 
+    font-family: 'Chonburi', cursive;
+    font-size: 150;
+}
+
+.nav-link, 
+.navbar-text {
+    font-family: 'Chonburi', cursive;
+    font-size: 150;
+}
+

@@ -3,6 +3,11 @@
     padding: 10px;
 }
 
+.navbar-custom {
+    background-color: #00d2d3;
+
+}
+
 .nav-link, 
 .navbar-text, 
 h1,
@@ -18,7 +23,12 @@ ul,
     font-family: 'Quicksand', sans-serif;
 }
 
-
+footer {
+    position: fixed;
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+}
 
   
 

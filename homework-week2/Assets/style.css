@@ -1,14 +1,11 @@
 .container {
+    margin: 30px;
     padding: 10px;
 }
 
-h1 { 
-    font-family: 'Chonburi', cursive;
-    font-size: 150;
-}
-
 .nav-link, 
-.navbar-text {
+.navbar-text, 
+h1 {
     font-family: 'Chonburi', cursive;
     font-size: 150;
 }

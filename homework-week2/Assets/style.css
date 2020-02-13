@@ -6,15 +6,18 @@
 .nav-link, 
 .navbar-text, 
 h1,
-h5 {
+h5,
+.form-group {
     font-family: 'Sorts Mill Goudy', serif;
 }
 
 p,
 ul,
-#exampleFormControlInput1 {
+.card-text
+ {
     font-family: 'Quicksand', sans-serif;
 }
+
 
 
   

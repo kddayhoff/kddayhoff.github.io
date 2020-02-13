@@ -5,9 +5,13 @@
 
 .nav-link, 
 .navbar-text, 
-h1 {
+h1,
+h5 {
     font-family: 'Chonburi', cursive;
-    font-size: 150;
+}
+
+p {
+    font-family: 'Work Sans', sans-serif;
 }
 
 

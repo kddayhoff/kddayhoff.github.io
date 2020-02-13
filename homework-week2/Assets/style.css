@@ -7,11 +7,13 @@
 .navbar-text, 
 h1,
 h5 {
-    font-family: 'Chonburi', cursive;
+    font-family: 'Sorts Mill Goudy', serif;
 }
 
-p {
-    font-family: 'Work Sans', sans-serif;
+p,
+ul,
+#exampleFormControlInput1 {
+    font-family: 'Quicksand', sans-serif;
 }
 
 

@@ -13,13 +13,9 @@
     background-color: #84DECB;
 }
 
-#bio {
-    margin: 10px;
-    padding: 10px;
-}
 /* font styles for all pages*/
 .nav-link, 
-.navbar-text, 
+.navbar-text,
 h1,
 h5,
 .form-group {

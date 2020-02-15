@@ -3,8 +3,8 @@
     padding: 10px;
 }
 
-.navbar-custom {
-    background-color: #00d2d3;
+.bg-dark {
+    background-color:#808e9b;
 
 }
 
@@ -25,9 +25,12 @@ ul,
 
 footer {
     position: fixed;
-    height: 100px;
+    text-align: center;
+    height: 60px;
     bottom: 0;
     width: 100%;
+    padding: 10px;
+    background-color: #808e9b;
 }
 
   

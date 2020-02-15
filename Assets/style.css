@@ -1,13 +1,23 @@
+/*navbar styling*/
+.navbar-brand {
+    font-size: 25px;
+}
+
+/*container styling*/
 .container {
     margin: 30px;
     padding: 10px;
 }
 
-.bg-dark {
-    background-color:#808e9b;
-
+.bg-custom {
+    background-color: #84DECB;
 }
 
+#bio {
+    margin: 10px;
+    padding: 10px;
+}
+/* font styles for all pages*/
 .nav-link, 
 .navbar-text, 
 h1,
@@ -18,18 +28,28 @@ h5,
 
 p,
 ul,
-.card-text
- {
+.card-text {
     font-family: 'Quicksand', sans-serif;
 }
 
+/*h1 on portfolio page*/
+.center {
+    text-align: center;
+    border: 10px;
+    border-style: solid;
+    border-color: #808e9b;
+    border-radius: 3px;
+    margin: 10px;
+}
+
+/* footer styling */
 footer {
     position: fixed;
-    text-align: center;
-    height: 60px;
+    height: 40px;
     bottom: 0;
     width: 100%;
     padding: 10px;
+    border: 10px;
     background-color: #808e9b;
 }
 

@@ -3,6 +3,9 @@
     font-size: 25px;
 }
 
+body {
+    background-color: #b2bec3;
+}
 /*container styling*/
 .container {
     margin: 30px;

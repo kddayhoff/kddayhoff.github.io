@@ -8,7 +8,7 @@ body {
 }
 /*container styling*/
 .container {
-    margin: 40px;
+    margin: 50px;
     padding: 10px;
 }
 
@@ -29,6 +29,10 @@ p,
 ul,
 .card-text {
     font-family: 'Quicksand', sans-serif;
+}
+
+.card-body {
+    border-radius: 3px;
 }
 
 /*h1 on portfolio page*/

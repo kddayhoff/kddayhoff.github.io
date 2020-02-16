@@ -19,7 +19,7 @@ In order to ensure this code can be viewed correctly, it must be viewed in a web
 
 ## Credits
 ​
-All the classmates of VU Coding Bootcamp, the TA's Terrance Mahnken, Pete Wanca, and the instructor Alec Down
+All the classmates of VU Coding Bootcamp, the TA's Terrance Mahnken, Pete Wanca, and the instructor Alec Downs
 
 ## Contact
 

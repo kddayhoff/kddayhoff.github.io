@@ -1,11 +1,11 @@
 /*navbar styling*/
 nav {
     background-color: #f96d15;
-    color: #E5D8BF;
+    color: #FCFAFA;
 }
 
 body {
-    background-color: #b2bec3;
+    background-color: #c7d0d4;
 }
 /*container styling*/
 
@@ -16,30 +16,43 @@ body {
 
 /* font styles for all pages*/
 
-
-#collapse {
-    margin: 50px;   
+.navbar-link {
+    font-size: 18px;
+    color: #fcfafa;
+    margin: 10px 10px;
+}
+.collapsible {
+    box-shadow: none!important; 
+    border: 0!important;
+    margin-top: 80px;
 }
 
 .brand-logo {
     border: 6px solid #3c4245;
+    letter-spacing: 3.5px;
+    line-height: 1.6;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    
+}
+
+#dark-dayhoff {
+    color: #3c4245
 }
 
 .collapsible-header {
     background-color: #16bda9;
-    
-    color: #E5D8BF;
+    color: #FCFAFA;
+    font-size: 22px;
     border: 4px solid black;
     border-radius: 3px;
-    margin: 0px;
-}
-
-#header {
-    text-align: right;
+    margin-top: 20px;
+    
 }
 
 .collapsible-body {
     background-color: #3C4245;
+    color: #FCFAFA;
    
 }
 

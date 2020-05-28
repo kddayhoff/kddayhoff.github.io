@@ -1,11 +1,11 @@
 /*navbar styling*/
 nav {
-    background-color: #f1a94e;
-    color: #FCFAFA;
+    background-color: #483515;
+    color: #f4ecd5;
 }
 
 body {
-    background-color: #f2edd8;
+    background-color: #f4ecd5;
     display: flex;
     min-height: 100vh;
     flex-direction: column;
@@ -30,7 +30,7 @@ main {
 }
 
 .brand-logo {
-    border: 6px solid #6a7988;
+    border: 6px solid #dfa832;
     border-radius: 6px;
     letter-spacing: 3.5px;
     line-height: 1.6;
@@ -40,22 +40,47 @@ main {
 }
 
 #dark-dayhoff {
-    color: #6a7988
+    color: #483515
 }
 
 .collapsible-header {
-    background-color:#44b3c2;
+    background-color:#c75220;
     color: #FCFAFA;
     font-size: 22px;
-    border: 4px solid #6a7988;
+    border: 4px solid #483515;
     border-radius: 6px;
     margin-top: 20px;
     
 }
 
+a {
+    color: #f4ecd5;
+  }
+/* unvisited link */
+a:link {
+    color: #f4ecd5;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: #f4ecd5;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: #eed06a;
+    text-decoration: none;
+  }
+  
+  /* selected link */
+  a:active {
+    color: #eed06a;
+  }
+  
+
 .collapsible-body {
-    background-color: #7b8d8e;
-    color: #FCFAFA;
+    background-color: #73c7e6f5;
+    color: #483515;
     border-radius: 4px;
 }
 
@@ -67,13 +92,13 @@ main {
 }
 
  #what {
-     background-color: #E45641;
+     background-color: #483515;
  }
  
 
 
 #page-footer {
-    background-color: #f1a942;
+    background-color: #483515;
     text-align: center;
 }
 

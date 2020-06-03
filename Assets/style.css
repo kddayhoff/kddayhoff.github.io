@@ -101,12 +101,17 @@ a:link {
  }
  
 #card-body {
-  background-color: #73c7e6f5;
+  background-color: #dfa832;
+  color: #483515;
+  font-family: 'Cantarell', sans-serif;
+  text-align: center;
+   border-radius: 4px;
 }
 
 #page-footer {
     background-color: #483515;
     text-align: center;
+    font-family: 'Cantarell', sans-serif
 }
 
 @viewport {
